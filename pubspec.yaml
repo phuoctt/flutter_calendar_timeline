@@ -1,7 +1,7 @@
 name: flutter_calendar_timeline
-description: A new Flutter package project.
+description: Flutter Date Picker Library that provides a calendar as a horizontal timeline.
 version: 0.0.1
-homepage:
+homepage: https://github.com/phuoctt/flutter_calendar_timeline
 
 environment:
   sdk: '>=2.19.0 <3.0.0'
@@ -10,11 +10,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  intl: ^0.18.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  intl: ^0.18.0
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
